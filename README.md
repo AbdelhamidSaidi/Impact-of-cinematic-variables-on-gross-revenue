@@ -32,7 +32,7 @@ After downloading, place the dataset in the **same directory** as the Jupyter No
 ## How to Run the Notebook  
 1. Clone the repository:  
    ```bash
-   https://github.com/AbdelhamidSaidi/Movie-correlation-with-python
+   https://github.com/AbdelhamidSaidi/What-Makes-a-Movie-a-Box-Office-Hit
 
    ```
 2. Install the requirements
