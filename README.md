@@ -32,7 +32,7 @@ After downloading, place the dataset in the **same directory** as the Jupyter No
 ## How to Run the Notebook  
 1. Clone the repository:  
    ```bash
-   https://github.com/AbdelhamidSaidi/What-Makes-a-Movie-a-Box-Office-Hit
+   https://github.com/AbdelhamidSaidi/Impact-of-cinematic-variables-on-gross-revenue
 
    ```
 2. Install the requirements
